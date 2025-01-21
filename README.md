@@ -49,3 +49,20 @@ Future enhancements could include:
 - **Multiplayer mode**: Enable players to compare their life paths or work together in a shared student experience.
 
 These enhancements could make the game more dynamic, providing more replayability and a deeper simulation of a student’s life.
+
+### Contributing 🛠️
+You can contribute to this work following this steps : 
+1. **Fork** this repository.
+2. Creat a new branch :
+   ```
+   python main.py
+   ```
+3. Commit your changes :
+   ```
+   git commit -m "Add a descriptive message"
+   ```
+4. Push to your fork :
+   ```
+   git push origin feature-name
+   ```
+5. Submit a **pull request**
